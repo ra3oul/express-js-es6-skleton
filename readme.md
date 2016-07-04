@@ -2,15 +2,7 @@
 
 
 
-## Table of Contents
 
-- <a href="#installation">Installation</a>
-    - <a href="#Clone">clone or download the repository </a>
-    -   <a href="#dependencies">install dependencies  </a>
-	- <a href="#babelcli">install babel cli </a>
-- <a href="#installation">run server</a>
-	- <a href="#rundev">run in development mode</a>
-	 - <a href="#runpro">run in production mode</a>
 
 ## Installation
 
